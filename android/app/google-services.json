@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888122751992",
+    "project_id": "casa-rosah-projeto",
+    "storage_bucket": "casa-rosah-projeto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888122751992:android:97c4cc902c1ea4eae4f40d",
+        "android_client_info": {
+          "package_name": "br.com.delamorec.casarosah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888122751992-l6gc3h7a2b3ufbijocqebj6p4akvv9jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjp7gDcLh1Sxo0SxQbcu__PL90yz8uBHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888122751992-l6gc3h7a2b3ufbijocqebj6p4akvv9jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
