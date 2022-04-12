@@ -15,7 +15,7 @@ Esse projeto tem como objetivo suprir a necessidade de um salão de beleza, tais
 A linguagem que escolhi foi **Flutter**, mas por que? <br>
 Quando comecei a desenvolver não tinha muito bem definido as questões de negócio do software, então comecei em outra linguagem (Java) mas assim que entendi 100% o projeto resolvi começar a desenvolver em Flutter pois essa linguagem possibilita o acesso via mobile e/ou web de uma maneira mais viável para o desenvolvedor e dessa forma mais rápido o desenvolvimento do projeto.
 
-## Projeto na WEB
+## Projeto na WEB/MOBILE (responsivo para as duas opções)
   **Tela Principal** <br>
   Tem acesso a todas as telas que compoem o projeto.
   
