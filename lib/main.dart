@@ -14,24 +14,15 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
 
-  /*Future<void> init() async {
-    await Firebase.initializeApp(
-        options: FirebaseOptions(
-            apiKey: configurations.apiKey,
-            appId: configurations.appId,
-            messagingSenderId: configurations.messagingSenderId,
-            projectId: configurations.projectId));
-  }*/
-}
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
   FirebaseOptions get firebaseOptions => FirebaseOptions(
-        appId: '1:888122751992:web:0ec38efee23baf2be4f40d',
-        apiKey: 'AIzaSyAw2rng78_tFwv4DgirLgwMr8wmiWGEk14',
-        projectId: 'casa-rosah-projeto',
-        messagingSenderId: '888122751992',
+        appId:,
+        apiKey:,
+        projectId:,
+        messagingSenderId:,
       );
 
   // This widget is the root of your application.
